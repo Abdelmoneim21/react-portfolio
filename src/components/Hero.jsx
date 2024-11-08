@@ -50,7 +50,7 @@ export default function Hero (){
                     initial={{x:100,opacity:0}}
                     animate={{x:0,opacity:1}}
                     transition={{duration:1,delay:1.5}}
-                    src="/src/assets/WhatsApp Image 2024-07-20 at 14.45.47_cf5ed9db.jpg" className="w-[70%] h-[70%]"  alt="my picture"/>
+                    src="../assets/WhatsApp Image 2024-07-20 at 14.45.47_cf5ed9db.jpg" className="w-[70%] h-[70%]"  alt="my picture"/>
                     </div>
                 </div>
             </div>

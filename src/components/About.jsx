@@ -9,7 +9,7 @@ export default function About(){
             initial={{x:-100,opacity:0}}
             transition={{duration:0.5}}
             className="flex-col w-full lg:w-1/2 lg:p-8 ">
-                    <img className="rounded-2xl h-[20%]" src="/src/assets/WhatsApp Image 2024-07-20 at 14.45.47_cf5ed9db.jpg" alt="about me image" />
+                    <img className="rounded-2xl h-[20%]" src="../assets/WhatsApp Image 2024-07-20 at 14.45.47_cf5ed9db.jpg" alt="about me image" />
                 </motion.div>
                 <motion.div
                 whileInView={{x:0,opacity:1}}

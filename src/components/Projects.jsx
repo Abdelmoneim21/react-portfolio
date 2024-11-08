@@ -16,7 +16,7 @@ export default function Projects(){
                     whileInView={{x:0,opacity:1}}
                     initial={{x:-100,opacity:0}}
                     transition={{duration:0.5}}
-                    src="/src/assets/Screenshot 2024-10-19 185855.png"className="mb-6 rounded mx-auto" width={250} height={250} alt="e-commerce app"/>
+                    src="../assets/Screenshot 2024-10-19 185855.png"className="mb-6 rounded mx-auto" width={250} height={250} alt="e-commerce app"/>
                     <motion.div
                     whileInView={{x:0,opacity:1}}
                     initial={{x:100,opacity:0}}
@@ -53,7 +53,7 @@ export default function Projects(){
                     whileInView={{x:0,opacity:1}}
                     initial={{x:-100,opacity:0}}
                     transition={{duration:1}}
-                    src="/src/assets//Screenshot 2024-11-07 100008.png"className="mb-6 rounded mx-auto" width={250} height={250} alt="e-commerce app"/>
+                    src="../assets//Screenshot 2024-11-07 100008.png"className="mb-6 rounded mx-auto" width={250} height={250} alt="e-commerce app"/>
                     <motion.div
                     whileInView={{x:0,opacity:1}}
                     initial={{x:100,opacity:0}}
@@ -92,7 +92,7 @@ export default function Projects(){
                     whileInView={{x:0,opacity:1}}
                     initial={{x:-100,opacity:0}}
                     transition={{duration:1.5}}
-                    src="/src/assets/Screenshot 2024-11-08 153906.png"className="mb-6 rounded mx-auto" width={250} height={250} alt="e-commerce app"/>
+                    src="../assets/Screenshot 2024-11-08 153906.png"className="mb-6 rounded mx-auto" width={250} height={250} alt="e-commerce app"/>
                     <motion.div
                     whileInView={{x:0,opacity:1}}
                     initial={{x:100,opacity:0}}
